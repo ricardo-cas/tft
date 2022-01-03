@@ -1,22 +1,25 @@
-Three ways to play
+# TFT
+
+### Three ways to play
  
 if you don't have morello by stage 4 just ff the game and go next (GA super good for playing flex)
  
 NEVER TAKE ANYTHING TO DO W/ IMPERIAL, NEVER GO INTO 3-2 AND BE LIKE BET TIME TO PLAY JHIN
  
-TIER 1 AUGMENTS 
+# AUGMENTS
+## TIER 1 AUGMENTS 
 SSSSSS : Stand United I
 SSSS   : Ascension
 SS     : Bodyguard heart, duet
 A: Just don't be an idiot, its pretty obvious
  
-Tier 2 Augments
+## Tier 2 Augments
 SSSSS : Metabolic, Share the spotlight
 SSS   : Cybernetic, Stand
 Underated : Celestial 2
  
-Tier 3 Augments
-ALL STREAK AUGMENTS ARE GOOD, 
+## Tier 3 Augments
+**ALL STREAK AUGMENTS ARE GOOD**
  
  
 8 on 4-2
@@ -58,7 +61,7 @@ Socialite + Tahm Kench (basically instant win if u had gold to upgrade supportin
 JUST GO FOR UPGRADES, if u hit yone 2, just slam ur GA + Ad items on him and play around him
 hit orianna, maybe play camille for a bit, hit fiora 1, yone 2, items on yone, play vi and random upgraded bruiser
  
-META IS TO JUST SAVE AS MUCH HP AS POSSIBLE UNTIL YOU CAN FIND A KAISA AND MOVE MORELLO TO KAISA
+**META IS TO JUST SAVE AS MUCH HP AS POSSIBLE UNTIL YOU CAN FIND A KAISA AND MOVE MORELLO TO KAISA**
  
 Don't worry about mutant too much for kaisa when you are playing body guard frontline b/c pivoting into mundo kench from body guards feels troll
  
@@ -73,16 +76,18 @@ if you hit kaisa 1 but fiora 2 and u have 0 gold, just put the GA on fiora and u
  
 AD Flex BIS = GA + 2, doesn't matter, combat augment prayge (cybernetic, knifes edge, ascension, stand)
  
- 
-Rod = first or eighth, almost always lose streaking into a 4-2
-Bow = if ur full tryharding and basically want to guarantee top 5, its bow
-Chain = kind of like bow, its ok
-Belt = probabaly worse
-Glove = first or eighth ad variant, can't tell, prob better than belt
-Cloak = lol
-Tear = not bad not sure
-Sword = its ok
- 
+# Carrousel Itens
+
+1. Rod = first or eighth, almost always lose streaking into a 4-2
+2. Bow = if ur full tryharding and basically want to guarantee top 5, its bow
+3. Chain = kind of like bow, its ok
+4. Belt = probabaly worse
+5. Glove = first or eighth ad variant, can't tell, prob better than belt
+6. Cloak = lol
+7. Tear = not bad not sure
+8. Sword = its ok
+
+## Carrousel Itens order of importance
 Bow > Chain > Rod > Sword = Glove = Belt > Tear > Cloak
  
 I never start rod so idk, also tear always works out for me but idk if im highrolling
