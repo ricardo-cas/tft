@@ -120,3 +120,15 @@ don't slam items --> 4-2 properly don't just spam d without buying anything --> 
  
 don't be scared to just take ur top 5 guaranteed and move on
 over 100 games, if ur in that guaranteed top 5 spot, ur + infinite LP
+
+
+
+
+# Guias e sites úteis
+
+<!-- |x|[Acesse aqui]()| -->
+|   Guia  | Link|
+|   ---   | --- |
+|Cheeet Sheet Set6|[Acesse aqui](https://lolchess.gg/cheatsheet/set6)|
+|Guia de Level up e situações|[Acesse aqui](https://bunnymuffins.lol/tft-cheat-sheets/)|
+|Tier List de META e composições|[Acesse aqui](https://bunnymuffins.lol/meta/)|
